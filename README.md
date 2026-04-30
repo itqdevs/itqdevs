@@ -138,7 +138,7 @@ _Founder & CEO_
 Software architect, AI systems designer, and builder of African-first technology. Dropped out of CS studies to build full-time. Founded AstraMinds in 2024.
 <br/>
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-0033FF?style=flat-square&logo=github&logoColor=white)](https://github.com/takue)
+([https://github.com/astraminds-vlabs])
 
 </td>
 <td align="center" width="50%">
@@ -201,6 +201,6 @@ We're open to **enterprise partnerships**, **developer collaborations**, and **i
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4017,100:0033FF&height=120&section=footer&text=&animation=fadeIn" width="100%" />
 
-_© 2024–2026 Astranodes Innovations Private Limited · Reg. 8326A0272024_
+_© 2024–2026 Astranodes Innovations Private Limited_
 
 </div>

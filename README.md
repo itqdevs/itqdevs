@@ -30,7 +30,7 @@
 
 ## ◈ Who We Are
 
-**AstraMinds** (Astranodes Innovations Private Limited · Reg. 8326A0272024) is an AI-first technology company headquartered in Harare, Zimbabwe. We design and build intelligent platforms, enterprise software, and proprietary products tailored for African markets and beyond.
+**AstraMinds** (Astranodes Innovations Private Limited) is an AI-first technology company headquartered in Harare, Zimbabwe. We design and build intelligent platforms, enterprise software, and proprietary products tailored for African markets and beyond.
 
 We are not a generic dev shop. We build systems that **think** — with AI at the core of every product we ship.
 
@@ -131,8 +131,6 @@ We are not a generic dev shop. We build systems that **think** — with AI at th
 <table>
 <tr>
 <td align="center" width="50%">
-
-**Takudzwa Chigumbu**
 <br/>
 _Founder & CEO_
 <br/>
@@ -144,8 +142,6 @@ Software architect, AI systems designer, and builder of African-first technology
 
 </td>
 <td align="center" width="50%">
-
-**Stephen Haukozi**
 <br/>
 _Co-Founder & Executive Director_
 <br/>
